@@ -1,0 +1,10 @@
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.MainForm.resources
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.Properties.Resources.resources
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\tina_\OneDrive\Рабочий стол\TicTacToeGame\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
